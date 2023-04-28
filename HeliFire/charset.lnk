@@ -1,0 +1,13 @@
+-mjx
+-i charset.ihx
+-b _CODE = 0x8048
+-b _DATA = 0x7000
+-k D:\Coding\SDCC\bin\..\lib\z80
+-l z80
+charset.rel
+main.rel
+music.rel
+splash.rel
+title.rel
+
+-e
